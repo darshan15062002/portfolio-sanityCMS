@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+https://darshan-potfolio.netlify.app/
+git remote remove origin
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
